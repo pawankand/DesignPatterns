@@ -396,3 +396,6 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+
+/A - Creational/01 - Singleton/bin
+/A - Creational/01 - Singleton/obj
